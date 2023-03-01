@@ -1,4 +1,4 @@
-# PROYECTO FINAL: CANTANTE J BALVIN 
+# PROYECTO FINAL
 
 Foobar is a Python library for dealing with word pluralization.
 
